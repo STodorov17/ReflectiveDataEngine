@@ -19,13 +19,13 @@ This is a standard Maven project.
 ## Formats & Samples
 
   1.Transactions
-    1001|500.50|2025-01-01
-    1002|-10.00|2025-01-02
+   * 1001|500.50|2025-01-01
+   * 1002|-10.00|2025-01-02
   
   2.Customers
-    John Doe,john@email.com,30
-    Jane Smith,jane@work.org,25
+   * John Doe,john@email.com,30
+   * Jane Smith,jane@work.org,25
   
   3.Security Logs
-    192.168.0.1;HIGH
-    10.0.0.5;CRITICAL
+   * 192.168.0.1;HIGH
+   * 10.0.0.5;CRITICAL
